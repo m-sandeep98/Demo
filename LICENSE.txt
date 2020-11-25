@@ -1,1 +1,2 @@
 demo license file
+license stashing demo
