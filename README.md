@@ -5,3 +5,4 @@ Edit diff
 On a branch
 This is going to cause trouble
 What a problem
+Just something new
